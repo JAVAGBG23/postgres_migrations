@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "postgresAPI", "postgresAPI\postgresAPI.csproj", "{ECD21359-20BC-4BDE-BC6E-A30200EE672F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD21359-20BC-4BDE-BC6E-A30200EE672F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD21359-20BC-4BDE-BC6E-A30200EE672F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD21359-20BC-4BDE-BC6E-A30200EE672F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD21359-20BC-4BDE-BC6E-A30200EE672F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6911E54A-8032-44A5-B475-F431CE3E0489}
+	EndGlobalSection
+EndGlobal
